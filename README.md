@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Final Capstone Backend
- This is the Final Capstone's backend, it is a rails API made to serve as the database to our Final Capstone's frontend made with React.
+ This is the Final Capstone's backend, it is a rails API made to serve as the database to our Final Capstone's [frontend](https://github.com/lucas-crodrigues/bike-rental-frontend) made with React.
 <hr>
 
 ## Built With
